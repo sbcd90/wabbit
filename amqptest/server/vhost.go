@@ -3,7 +3,7 @@ package server
 import (
 	"fmt"
 
-	"github.com/NeowayLabs/wabbit"
+	"github.com/sbcd90/wabbit"
 )
 
 // VHost is a fake AMQP virtual host

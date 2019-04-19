@@ -3,7 +3,7 @@ package utils
 import (
 	"testing"
 
-	"github.com/NeowayLabs/wabbit"
+	"github.com/sbcd90/wabbit"
 	"github.com/streadway/amqp"
 )
 

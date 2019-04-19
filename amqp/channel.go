@@ -3,8 +3,8 @@ package amqp
 import (
 	"errors"
 
-	"github.com/NeowayLabs/wabbit"
-	"github.com/NeowayLabs/wabbit/utils"
+	"github.com/sbcd90/wabbit"
+	"github.com/sbcd90/wabbit/utils"
 	"github.com/streadway/amqp"
 )
 
